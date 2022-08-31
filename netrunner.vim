@@ -35,3 +35,4 @@ highlight CursorLineNr  ctermbg=0     ctermfg=231   cterm=none
 highlight VertSplit     ctermfg=233   ctermbg=238
 highlight StatusLineNC  ctermfg=0     ctermbg=234   cterm=none
 highlight Directory     ctermfg=63
+highlight WildMenu      ctermfg=0     ctermbg=93
