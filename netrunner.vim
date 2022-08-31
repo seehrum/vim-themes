@@ -13,9 +13,9 @@ endif
 let g:colors_name = "netrunner"
 
 highlight Comment       ctermfg=240                        
-highlight Constant      ctermfg=220   cterm=none 
+highlight Constant      ctermfg=220                 cterm=none 
 highlight Identifier    ctermfg=63                        
-highlight Statement     ctermfg=129   cterm=bold 
+highlight Statement     ctermfg=129                 cterm=bold 
 highlight PreProc       ctermfg=200                       
 highlight Type          ctermfg=93						  
 highlight Special       ctermfg=12                       
@@ -36,3 +36,4 @@ highlight VertSplit     ctermfg=233   ctermbg=238
 highlight StatusLineNC  ctermfg=0     ctermbg=234   cterm=none
 highlight Directory     ctermfg=63
 highlight WildMenu      ctermfg=0     ctermbg=93
+highlight MoreMsg       ctermfg=9
