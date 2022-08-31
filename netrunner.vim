@@ -19,7 +19,8 @@ highlight Statement     ctermfg=129                 cterm=bold
 highlight PreProc       ctermfg=200                       
 highlight Type          ctermfg=93						  
 highlight Special       ctermfg=12                       
-highlight WarningMsg    ctermfg=196   ctermbg=233	
+highlight WarningMsg    ctermfg=196   ctermbg=233
+highlight ErrorMsg      ctermfg=0     ctermbg=196
 highlight Error         ctermbg=196			
 highlight Todo          ctermfg=4     ctermbg=3             
 highlight Directory     ctermfg=15                        
